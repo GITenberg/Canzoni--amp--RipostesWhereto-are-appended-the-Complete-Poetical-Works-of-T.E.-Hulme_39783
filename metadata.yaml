@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2637
     wikipedia: http://en.wikipedia.org/wiki/Ezra_Pound
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39783#Canzoni--amp--RipostesWhereto-are-appended-the-Complete-Poetical-Works-of-T.E.-Hulme
 gutenberg_issued: '2012-05-24'
 gutenberg_type: Text
 identifiers:
