@@ -1,0 +1,42 @@
+_repo: Canzoni--amp--RipostesWhereto-are-appended-the-Complete-Poetical-Works-of-T.E.-Hulme_39783
+_version: 0.1.0
+alternative_title: Canzoni and Ripostes
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Hulme, T. E. (Thomas Ernest)
+    aliases:
+    - Hulme, T.E.
+    - Hulme, Thomas Ernest
+    birthdate: 1883
+    deathdate: 1917
+    gutenberg_agent_id: '40230'
+    url: http://www.gutenberg.org/2009/agents/40230
+  - agent_name: Pound, Ezra
+    aliases:
+    - Pound, Ezra Loomis
+    - Atheling, William
+    birthdate: 1885
+    deathdate: 1972
+    gutenberg_agent_id: '2637'
+    url: http://www.gutenberg.org/2009/agents/2637
+    wikipedia: http://en.wikipedia.org/wiki/Ezra_Pound
+description: ''
+gutenberg_issued: '2012-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39783'
+  lccn: '13021698'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Poetry'
+title: 'Canzoni & Ripostes
+
+  Whereto are appended the Complete Poetical Works of T.E. Hulme'
+url: http://www.gutenberg.org/ebooks/39783
